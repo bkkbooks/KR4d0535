@@ -1,0 +1,116 @@
+canonical_identifier: bkk:krp/KR4d0535/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4d0535/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 子淵詩集
+  date: '2015-08-25 00:13:28.983112'
+  source:
+    repository: kanripo
+    path: KR4d0535
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0535_000-WYG.yaml, hash: 'sha256:3551d1c798d23d4bed7393e27f4167f9f750f69cf872ebfa03dc8e8e9986d548'}
+  - {seq: 1, filename: KR4d0535_001-WYG.yaml, hash: 'sha256:15b58a017a46f0e2ea19272be42930137ce53f2b9fd275c8ea70bf675e95f648'}
+  - {seq: 2, filename: KR4d0535_002-WYG.yaml, hash: 'sha256:5416de7bfd2d1e77f16a154ea0a2144d5fb69317d9467cad1edbe30d0ef651f1'}
+  - {seq: 3, filename: KR4d0535_003-WYG.yaml, hash: 'sha256:2fda8f1dfa157da10647ba362ba8e8a2ea4cc05ecfa06465888a4936b639234a'}
+  - {seq: 4, filename: KR4d0535_004-WYG.yaml, hash: 'sha256:aa3953cfaa14abfa60b103cc46c95d892a46d136ef2536a22d8d4bae1936f42d'}
+  - {seq: 5, filename: KR4d0535_005-WYG.yaml, hash: 'sha256:6d6fa957f55e8a9c69a3db8315809d8f1d78d97771bf3e5853d9f27d7b0f7ca9'}
+  - {seq: 6, filename: KR4d0535_006-WYG.yaml, hash: 'sha256:d67f8df1b455937f1fafe30d461490211f9c9cf20c72de6d6e89d55749d8419d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0535_000-WYG.markers.yaml, hash: 'sha256:dff4618d934776785ec9293e6ce4c637dc357ce09e5523e41c344eb211ebbc04'}
+  - {seq: 1, role: markers, filename: assets/KR4d0535_001-WYG.markers.yaml, hash: 'sha256:277b48beef5da6ac32f22f88d7726d19b7de9aa44256583c8557881619d6c07f'}
+  - {seq: 2, role: markers, filename: assets/KR4d0535_002-WYG.markers.yaml, hash: 'sha256:3c56aa4bec4fb88c84dc98edf6aacb7de17a4262e814e18310268d9fc4a86402'}
+  - {seq: 3, role: markers, filename: assets/KR4d0535_003-WYG.markers.yaml, hash: 'sha256:1a21b36f5fd6c4e2768c85e62bcf1a9381d223dcebee0911475a1914d673c473'}
+  - {seq: 4, role: markers, filename: assets/KR4d0535_004-WYG.markers.yaml, hash: 'sha256:37f58e1e281ee23aed0a096f4fa01ad2059a6b9604a85fa068228e9f4cd9c562'}
+  - {seq: 5, role: markers, filename: assets/KR4d0535_005-WYG.markers.yaml, hash: 'sha256:8fa4c752227ed97c07b7a15d9bca8bb0b35de9184630c4f8d095f81ea6a26575'}
+  - {seq: 6, role: markers, filename: assets/KR4d0535_006-WYG.markers.yaml, hash: 'sha256:699973f88641d3ab67f576a548a58f803f5fa41f7794164c26181fcbd5ccc819'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0535_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 461
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4d0535_WYG_000-3a
+    span:
+    - body
+    - 461
+    - 1832
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4d0535_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 5529
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4d0535_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 5789
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4d0535_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 2212
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4d0535_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 4916
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4d0535_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 2085
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4d0535_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 1220
+  label: 卷六
+  type: section
+  level: 1
+hash: sha256:49183bdbdfd6ccf64fa4c1366c9bf3dd11402b8bc2b67dbffa74e1d79497bf53
